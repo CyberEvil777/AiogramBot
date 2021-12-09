@@ -1,3 +1,4 @@
-/core/.env
 /database.db
 /.idea
+/sql_orm.py
+/venv

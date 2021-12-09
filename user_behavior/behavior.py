@@ -3,6 +3,7 @@ from core.config import db
 
 
 class Behavior:
+    """Parent class, which describes the behavior"""
     def __init__(self):
         self.db = db
         self.bot = bot

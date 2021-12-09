@@ -30,6 +30,24 @@ class Database:
         with self.connection:
             return self.cursor.execute("UPDATE `users` SET `signup` = ? WHERE `user_id` = ?", (signup, user_id,))
 
+    def set_sub(self, user_id, time_sub):
+        with self.connection:
+            return self.cursor.execute("UPDATE `users` SET `time_sub` = ? WHERE `user_id` = ?", (time_sub, user_id,))
+
+    def get_sub(self, user_id):
+        with self.connection:
+            result = self.cursor.execute("SELECT `time_sub` FROM `users` WHERE `user_id` = ?", (user_id,)).fetchall()
+            for row in result:
+                sub = str(row[0])
+            return sub
+
+    def get_all_sub(self):
+        with self.connection:
+            result = self.cursor.execute("SELECT `user_id` FROM `users` WHERE `time_sub` = 1").fetchall()
+            for row in result:
+                sub = str(row[0])
+            return result
+
     def get_nickname(self, user_id):
         with self.connection:
             result = self.cursor.execute("SELECT `nickname` FROM `users` WHERE `user_id` = ?", (user_id,)).fetchall()

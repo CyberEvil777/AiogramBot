@@ -1,0 +1,1323 @@
+2021-09-09 15:04:14,652 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-09-09 15:04:16,224 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-09-09 15:05:14,542 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1150] in chat [private:482930388]
+2021-09-09 15:05:16,778 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022729]: [success] (in 2236 ms)
+2021-09-09 15:05:16,779 - ”ровень INFO в web_log.py.log: 127.0.0.1 [09/Sep/2021:12:05:14 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-09 15:05:47,556 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1152] in chat [private:482930388]
+2021-09-09 15:05:48,660 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022730]: [success] (in 1103 ms)
+2021-09-09 15:05:49,908 - ”ровень INFO в web_log.py.log: 127.0.0.1 [09/Sep/2021:12:05:47 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-09 15:05:59,864 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1155] in chat [private:482930388]
+2021-09-09 15:06:00,080 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022731]: [success] (in 217 ms)
+2021-09-09 15:06:00,085 - ”ровень INFO в web_log.py.log: 127.0.0.1 [09/Sep/2021:12:05:59 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-09 15:06:07,217 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1157] in chat [private:482930388]
+2021-09-09 15:06:07,433 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022732]: [success] (in 215 ms)
+2021-09-09 15:06:07,434 - ”ровень INFO в web_log.py.log: 127.0.0.1 [09/Sep/2021:12:06:07 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-09 15:06:53,360 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-09-09 15:06:54,844 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-09-09 15:07:07,574 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1159] in chat [private:482930388]
+2021-09-09 15:07:07,751 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022733]: [success] (in 177 ms)
+2021-09-09 15:07:07,753 - ”ровень INFO в web_log.py.log: 127.0.0.1 [09/Sep/2021:12:07:07 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-09 15:07:41,371 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1161] in chat [private:482930388]
+2021-09-09 15:07:42,731 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022734]: [success] (in 1360 ms)
+2021-09-09 15:07:42,739 - ”ровень INFO в web_log.py.log: 127.0.0.1 [09/Sep/2021:12:07:41 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-09 15:07:47,380 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1163] in chat [private:482930388]
+2021-09-09 15:07:47,598 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022735]: [success] (in 218 ms)
+2021-09-09 15:07:47,600 - ”ровень INFO в web_log.py.log: 127.0.0.1 [09/Sep/2021:12:07:46 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-09 15:07:49,714 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1165] in chat [private:482930388]
+2021-09-09 15:07:49,904 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022736]: [success] (in 190 ms)
+2021-09-09 15:07:49,906 - ”ровень INFO в web_log.py.log: 127.0.0.1 [09/Sep/2021:12:07:49 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-09 15:08:50,826 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-09-09 15:08:52,360 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-09-09 15:09:24,126 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-09-09 15:09:28,812 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-09-09 15:09:30,293 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-09-09 15:09:40,962 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1167] in chat [private:482930388]
+2021-09-09 15:09:41,197 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022737]: [success] (in 235 ms)
+2021-09-09 15:09:41,198 - ”ровень INFO в web_log.py.log: 127.0.0.1 [09/Sep/2021:12:09:40 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-09 15:09:43,338 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1169] in chat [private:482930388]
+2021-09-09 15:09:43,532 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022738]: [success] (in 194 ms)
+2021-09-09 15:09:43,533 - ”ровень INFO в web_log.py.log: 127.0.0.1 [09/Sep/2021:12:09:43 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 09:35:07,737 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-09-10 09:35:09,191 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-09-10 09:36:40,470 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-09-10 09:36:41,934 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-09-10 09:37:06,950 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1171] in chat [private:482930388]
+2021-09-10 09:37:07,866 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022739]: [success] (in 915 ms)
+2021-09-10 09:37:07,867 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:06:37:06 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 09:37:10,826 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1173] in chat [private:482930388]
+2021-09-10 09:37:11,082 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022740]: [success] (in 256 ms)
+2021-09-10 09:37:11,083 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:06:37:10 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 09:40:16,168 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-09-10 09:40:17,638 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-09-10 09:40:34,527 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1175] in chat [private:482930388]
+2021-09-10 09:40:35,744 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022741]: [success] (in 1217 ms)
+2021-09-10 09:40:35,746 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:06:40:34 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 09:40:37,725 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1177] in chat [private:482930388]
+2021-09-10 09:40:37,920 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022742]: [success] (in 196 ms)
+2021-09-10 09:40:37,921 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:06:40:37 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 09:40:39,349 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1179] in chat [private:482930388]
+2021-09-10 09:40:39,521 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022743]: [success] (in 172 ms)
+2021-09-10 09:40:39,522 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:06:40:39 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 09:40:40,268 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1181] in chat [private:482930388]
+2021-09-10 09:40:40,453 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022744]: [success] (in 186 ms)
+2021-09-10 09:40:40,455 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:06:40:40 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 09:40:41,393 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1183] in chat [private:482930388]
+2021-09-10 09:40:42,296 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022745]: [success] (in 903 ms)
+2021-09-10 09:40:42,299 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:06:40:41 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 09:44:00,038 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-09-10 09:44:01,543 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-09-10 09:44:15,598 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1185] in chat [private:482930388]
+2021-09-10 09:44:15,793 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022746]: [success] (in 196 ms)
+2021-09-10 09:44:15,796 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:06:44:15 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 09:46:40,115 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-09-10 09:46:41,563 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-09-10 09:46:47,441 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1187] in chat [private:482930388]
+2021-09-10 09:46:47,633 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022747]: [success] (in 194 ms)
+2021-09-10 09:46:47,634 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:06:46:47 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 09:47:02,052 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1189] in chat [private:482930388]
+2021-09-10 09:47:02,229 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022748]: [success] (in 177 ms)
+2021-09-10 09:47:02,230 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:06:47:02 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 09:47:07,821 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1191] in chat [private:482930388]
+2021-09-10 09:47:08,020 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022749]: [success] (in 199 ms)
+2021-09-10 09:47:08,023 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:06:47:07 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 09:47:10,236 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1193] in chat [private:482930388]
+2021-09-10 09:47:10,477 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022750]: [success] (in 241 ms)
+2021-09-10 09:47:10,481 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:06:47:10 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 09:53:33,377 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-09-10 09:53:34,829 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-09-10 13:18:13,340 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-09-10 13:18:14,980 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-09-10 13:18:45,080 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1195] in chat [private:482930388]
+2021-09-10 13:18:46,002 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022751]: [success] (in 922 ms)
+2021-09-10 13:18:46,004 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:10:18:45 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 13:18:47,554 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1197] in chat [private:482930388]
+2021-09-10 13:18:47,747 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022752]: [success] (in 194 ms)
+2021-09-10 13:18:47,749 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:10:18:47 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 13:18:51,320 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1199] in chat [private:482930388]
+2021-09-10 13:18:51,495 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022753]: [success] (in 175 ms)
+2021-09-10 13:18:51,497 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:10:18:51 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 13:18:52,910 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1201] in chat [private:482930388]
+2021-09-10 13:18:53,097 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022754]: [success] (in 187 ms)
+2021-09-10 13:18:53,103 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:10:18:52 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 13:18:54,721 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1203] in chat [private:482930388]
+2021-09-10 13:18:55,294 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022755]: [success] (in 573 ms)
+2021-09-10 13:18:55,295 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:10:18:54 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 13:18:56,308 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1205] in chat [private:482930388]
+2021-09-10 13:18:56,538 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022756]: [success] (in 231 ms)
+2021-09-10 13:18:56,540 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:10:18:56 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 13:18:57,861 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1207] in chat [private:482930388]
+2021-09-10 13:18:58,089 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022757]: [success] (in 228 ms)
+2021-09-10 13:18:58,092 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:10:18:57 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 13:19:13,226 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1209] in chat [private:482930388]
+2021-09-10 13:19:14,537 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022758]: [success] (in 1311 ms)
+2021-09-10 13:19:14,538 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:10:19:13 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 13:19:19,566 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1211] in chat [private:482930388]
+2021-09-10 13:19:19,765 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022759]: [success] (in 199 ms)
+2021-09-10 13:19:19,767 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:10:19:19 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-09-10 13:19:29,194 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1213] in chat [private:482930388]
+2021-09-10 13:19:29,400 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022760]: [success] (in 206 ms)
+2021-09-10 13:19:29,402 - ”ровень INFO в web_log.py.log: 127.0.0.1 [10/Sep/2021:10:19:29 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-16 07:42:33,979 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-16 07:42:35,529 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-16 07:42:54,593 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1218] in chat [private:482930388]
+2021-10-16 07:42:55,159 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022766]: [success] (in 566 ms)
+2021-10-16 07:42:55,169 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:04:42:54 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 07:42:57,921 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1220] in chat [private:482930388]
+2021-10-16 07:42:58,129 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022767]: [success] (in 208 ms)
+2021-10-16 07:42:58,136 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:04:42:57 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 07:42:59,745 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1222] in chat [private:482930388]
+2021-10-16 07:42:59,949 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022768]: [success] (in 204 ms)
+2021-10-16 07:42:59,953 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:04:42:59 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 07:51:04,173 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1224] in chat [private:482930388]
+2021-10-16 07:51:04,849 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022769]: [success] (in 676 ms)
+2021-10-16 07:51:04,852 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:04:51:04 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 07:51:06,674 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1226] in chat [private:482930388]
+2021-10-16 07:51:06,874 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022770]: [success] (in 199 ms)
+2021-10-16 07:51:06,874 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:04:51:06 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 07:51:09,132 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1228] in chat [private:482930388]
+2021-10-16 07:51:09,429 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022771]: [success] (in 297 ms)
+2021-10-16 07:51:09,432 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:04:51:09 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:03:34,978 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-16 08:03:36,704 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-16 08:04:08,853 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1230] in chat [private:482930388]
+2021-10-16 08:04:09,462 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022772]: [success] (in 610 ms)
+2021-10-16 08:04:09,463 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:04:08 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:04:10,668 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1232] in chat [private:482930388]
+2021-10-16 08:04:10,889 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022773]: [success] (in 220 ms)
+2021-10-16 08:04:10,893 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:04:10 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:04:12,497 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1234] in chat [private:482930388]
+2021-10-16 08:04:12,939 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022774]: [success] (in 442 ms)
+2021-10-16 08:04:12,947 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:04:12 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:04:56,063 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-16 08:04:57,629 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-16 08:05:05,450 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1237] in chat [private:482930388]
+2021-10-16 08:05:05,924 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022775]: [success] (in 474 ms)
+2021-10-16 08:05:05,928 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:05:05 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:05:12,086 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1239] in chat [private:482930388]
+2021-10-16 08:05:12,087 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022776]: [success] (in 1 ms)
+2021-10-16 08:05:12,087 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:05:12 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:09:38,772 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1240] in chat [private:944922861]
+2021-10-16 08:09:39,478 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022777]: [success] (in 706 ms)
+2021-10-16 08:09:39,482 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:09:38 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:10:01,643 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1242] in chat [private:944922861]
+2021-10-16 08:10:02,249 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022778]: [success] (in 606 ms)
+2021-10-16 08:10:02,253 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:10:01 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:10:03,980 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1244] in chat [private:944922861]
+2021-10-16 08:10:04,609 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022779]: [success] (in 629 ms)
+2021-10-16 08:10:04,611 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:10:03 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:10:16,970 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1246] in chat [private:944922861]
+2021-10-16 08:10:17,623 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022780]: [success] (in 654 ms)
+2021-10-16 08:10:17,627 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:10:16 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:10:31,077 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1248] in chat [private:944922861]
+2021-10-16 08:10:31,369 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022781]: [success] (in 292 ms)
+2021-10-16 08:10:31,374 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:10:31 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:10:48,141 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1250] in chat [private:944922861]
+2021-10-16 08:10:48,141 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022782]: [success] (in 1 ms)
+2021-10-16 08:10:48,142 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:10:48 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:11:10,110 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1251] in chat [private:944922861]
+2021-10-16 08:11:10,111 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022783]: [success] (in 1 ms)
+2021-10-16 08:11:10,112 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:11:10 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:11:11,872 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1252] in chat [private:944922861]
+2021-10-16 08:11:11,873 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:11:11 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:11:13,662 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1253] in chat [private:944922861]
+2021-10-16 08:11:13,663 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022785]: [success] (in 1 ms)
+2021-10-16 08:11:13,663 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:11:13 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:11:15,638 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1254] in chat [private:944922861]
+2021-10-16 08:11:15,639 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022786]: [success] (in 1 ms)
+2021-10-16 08:11:15,640 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:11:15 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:11:44,788 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-16 08:11:46,343 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-16 08:12:04,263 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1255] in chat [private:482930388]
+2021-10-16 08:12:04,918 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022787]: [success] (in 656 ms)
+2021-10-16 08:12:04,922 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:12:04 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:12:06,697 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1257] in chat [private:482930388]
+2021-10-16 08:12:06,898 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022788]: [success] (in 201 ms)
+2021-10-16 08:12:06,905 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:12:06 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:12:07,754 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1259] in chat [private:482930388]
+2021-10-16 08:12:07,969 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022789]: [success] (in 214 ms)
+2021-10-16 08:12:07,974 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:12:07 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:12:08,986 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1261] in chat [private:482930388]
+2021-10-16 08:12:09,329 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022790]: [success] (in 342 ms)
+2021-10-16 08:12:09,330 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:12:08 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:12:10,129 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1263] in chat [private:482930388]
+2021-10-16 08:12:10,439 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022791]: [success] (in 309 ms)
+2021-10-16 08:12:10,446 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:12:10 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:12:11,210 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1265] in chat [private:482930388]
+2021-10-16 08:12:11,428 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022792]: [success] (in 218 ms)
+2021-10-16 08:12:11,433 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:12:11 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:12:12,322 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1267] in chat [private:482930388]
+2021-10-16 08:12:12,522 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022793]: [success] (in 200 ms)
+2021-10-16 08:12:12,523 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:12:12 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:23:16,588 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-16 08:23:18,058 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-16 08:23:57,898 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-16 08:23:58,369 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-16 08:23:59,232 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1271] in chat [private:482930388]
+2021-10-16 08:23:59,418 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022796]: [success] (in 186 ms)
+2021-10-16 08:23:59,427 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:23:59 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:24:02,809 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1273] in chat [private:482930388]
+2021-10-16 08:24:02,998 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022797]: [success] (in 190 ms)
+2021-10-16 08:24:03,007 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:24:02 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:27:21,428 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1275] in chat [private:816949565]
+2021-10-16 08:27:21,938 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022798]: [success] (in 510 ms)
+2021-10-16 08:27:21,948 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:27:21 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:27:30,555 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1277] in chat [private:482930388]
+2021-10-16 08:27:30,758 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022799]: [success] (in 203 ms)
+2021-10-16 08:27:30,763 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:27:30 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:38:38,993 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1279] in chat [private:482930388]
+2021-10-16 08:38:39,933 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022800]: [success] (in 940 ms)
+2021-10-16 08:38:39,938 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:38:39 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 08:38:43,061 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1281] in chat [private:482930388]
+2021-10-16 08:38:43,379 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022801]: [success] (in 318 ms)
+2021-10-16 08:38:43,381 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:05:38:43 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 10:01:06,181 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1283] in chat [private:944922861]
+2021-10-16 10:01:06,183 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:07:01:06 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 10:01:21,143 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1284] in chat [private:944922861]
+2021-10-16 10:01:21,145 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:07:01:21 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-16 10:01:28,771 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1285] in chat [private:944922861]
+2021-10-16 10:01:28,772 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022804]: [success] (in 1 ms)
+2021-10-16 10:01:28,773 - ”ровень INFO в web_log.py.log: 127.0.0.1 [16/Oct/2021:07:01:28 +0000] "POST / HTTP/1.1" 200 159 "-" "-"
+2021-10-26 08:53:12,265 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-26 08:53:13,719 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-26 08:53:45,032 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1287] in chat [private:482930388]
+2021-10-26 08:53:45,623 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022806]: [success] (in 591 ms)
+2021-10-26 08:53:45,624 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:05:53:45 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 08:57:00,422 - ”ровень WARNING в main.py.on_shutdown: Shutting down..
+2021-10-26 08:57:00,885 - ”ровень WARNING в main.py.on_shutdown: Bye!
+2021-10-26 08:57:02,965 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-26 08:57:04,694 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-26 08:57:26,953 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1289] in chat [private:482930388]
+2021-10-26 08:57:27,545 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022807]: [success] (in 592 ms)
+2021-10-26 08:57:27,546 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:05:57:26 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 08:57:29,085 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1291] in chat [private:482930388]
+2021-10-26 08:57:29,333 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022808]: [success] (in 248 ms)
+2021-10-26 08:57:29,335 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:05:57:29 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 08:58:26,573 - ”ровень WARNING в main.py.on_shutdown: Shutting down..
+2021-10-26 08:58:27,013 - ”ровень WARNING в main.py.on_shutdown: Bye!
+2021-10-26 08:58:29,350 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-26 08:58:30,654 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-26 08:58:37,258 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1293] in chat [private:482930388]
+2021-10-26 08:58:37,442 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022809]: [success] (in 184 ms)
+2021-10-26 08:58:37,445 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:05:58:37 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 08:58:38,778 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1295] in chat [private:482930388]
+2021-10-26 08:58:38,964 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022810]: [success] (in 186 ms)
+2021-10-26 08:58:38,965 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:05:58:38 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 08:58:40,968 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1297] in chat [private:482930388]
+2021-10-26 08:58:40,970 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022811]: [failed] (in 3 ms)
+2021-10-26 08:58:40,970 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 73, in bot_message
+    await bot.send_message(message.from_user.id, reply_markup=nav.btn_inline)
+AttributeError: module 'markups' has no attribute 'btn_inline'
+2021-10-26 08:58:40,981 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:05:58:40 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 08:58:41,875 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1297] in chat [private:482930388]
+2021-10-26 08:58:41,876 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022811]: [failed] (in 1 ms)
+2021-10-26 08:58:41,876 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 73, in bot_message
+    await bot.send_message(message.from_user.id, reply_markup=nav.btn_inline)
+AttributeError: module 'markups' has no attribute 'btn_inline'
+2021-10-26 08:58:41,878 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:05:58:41 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 08:58:44,577 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1297] in chat [private:482930388]
+2021-10-26 08:58:44,578 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022811]: [failed] (in 1 ms)
+2021-10-26 08:58:44,578 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 73, in bot_message
+    await bot.send_message(message.from_user.id, reply_markup=nav.btn_inline)
+AttributeError: module 'markups' has no attribute 'btn_inline'
+2021-10-26 08:58:44,580 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:05:58:44 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 08:58:49,276 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1297] in chat [private:482930388]
+2021-10-26 08:58:49,277 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022811]: [failed] (in 1 ms)
+2021-10-26 08:58:49,277 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 73, in bot_message
+    await bot.send_message(message.from_user.id, reply_markup=nav.btn_inline)
+AttributeError: module 'markups' has no attribute 'btn_inline'
+2021-10-26 08:58:49,278 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:05:58:49 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 08:58:57,972 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1297] in chat [private:482930388]
+2021-10-26 08:58:57,974 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022811]: [failed] (in 2 ms)
+2021-10-26 08:58:57,974 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 73, in bot_message
+    await bot.send_message(message.from_user.id, reply_markup=nav.btn_inline)
+AttributeError: module 'markups' has no attribute 'btn_inline'
+2021-10-26 08:58:57,977 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:05:58:57 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 08:59:14,956 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1297] in chat [private:482930388]
+2021-10-26 08:59:14,958 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022811]: [failed] (in 2 ms)
+2021-10-26 08:59:14,959 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 73, in bot_message
+    await bot.send_message(message.from_user.id, reply_markup=nav.btn_inline)
+AttributeError: module 'markups' has no attribute 'btn_inline'
+2021-10-26 08:59:14,961 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:05:59:14 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 08:59:17,117 - ”ровень WARNING в main.py.on_shutdown: Shutting down..
+2021-10-26 08:59:17,569 - ”ровень WARNING в main.py.on_shutdown: Bye!
+2021-10-26 09:02:25,417 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-26 09:02:25,738 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-26 09:02:26,580 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1297] in chat [private:482930388]
+2021-10-26 09:02:26,794 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022811]: [success] (in 213 ms)
+2021-10-26 09:02:26,795 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:02:26 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 09:05:53,190 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1299] in chat [private:1364184778]
+2021-10-26 09:05:53,692 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022812]: [success] (in 501 ms)
+2021-10-26 09:05:53,693 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:05:53 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 09:05:57,120 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1301] in chat [private:1364184778]
+2021-10-26 09:05:57,538 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022813]: [success] (in 419 ms)
+2021-10-26 09:05:57,540 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:05:57 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 09:06:07,531 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1303] in chat [private:1364184778]
+2021-10-26 09:06:07,904 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022814]: [success] (in 373 ms)
+2021-10-26 09:06:07,906 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:06:07 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 09:06:11,786 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1305] in chat [private:1364184778]
+2021-10-26 09:06:11,982 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022815]: [success] (in 196 ms)
+2021-10-26 09:06:11,984 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:06:11 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 09:07:38,611 - ”ровень WARNING в main.py.on_shutdown: Shutting down..
+2021-10-26 09:07:39,179 - ”ровень WARNING в main.py.on_shutdown: Bye!
+2021-10-26 09:07:43,729 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-26 09:07:45,022 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-26 09:07:53,512 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1307] in chat [private:482930388]
+2021-10-26 09:07:53,742 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022816]: [success] (in 230 ms)
+2021-10-26 09:07:53,743 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:07:53 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 09:07:55,217 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1309] in chat [private:482930388]
+2021-10-26 09:07:55,421 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022817]: [success] (in 202 ms)
+2021-10-26 09:07:55,422 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:07:55 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 09:07:59,588 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1311] in chat [private:482930388]
+2021-10-26 09:07:59,735 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022818]: [failed] (in 147 ms)
+2021-10-26 09:07:59,735 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 151, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('USA_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageTextIsEmpty: Message text is empty
+2021-10-26 09:07:59,743 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:07:59 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:08:00,637 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1311] in chat [private:482930388]
+2021-10-26 09:08:00,790 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022818]: [failed] (in 154 ms)
+2021-10-26 09:08:00,791 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 151, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('USA_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageTextIsEmpty: Message text is empty
+2021-10-26 09:08:00,794 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:08:00 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:08:03,528 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1311] in chat [private:482930388]
+2021-10-26 09:08:03,675 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022818]: [failed] (in 147 ms)
+2021-10-26 09:08:03,675 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 151, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('USA_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageTextIsEmpty: Message text is empty
+2021-10-26 09:08:03,676 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:08:03 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:08:08,372 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1311] in chat [private:482930388]
+2021-10-26 09:08:08,520 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022818]: [failed] (in 149 ms)
+2021-10-26 09:08:08,520 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 151, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('USA_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageTextIsEmpty: Message text is empty
+2021-10-26 09:08:08,524 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:08:08 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:08:17,218 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1311] in chat [private:482930388]
+2021-10-26 09:08:17,367 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022818]: [failed] (in 150 ms)
+2021-10-26 09:08:17,368 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 151, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('USA_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageTextIsEmpty: Message text is empty
+2021-10-26 09:08:17,372 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:08:17 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:08:20,323 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1313] in chat [private:1364184778]
+2021-10-26 09:08:20,524 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022820]: [success] (in 202 ms)
+2021-10-26 09:08:20,526 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:08:20 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 09:08:21,807 - ”ровень WARNING в main.py.on_shutdown: Shutting down..
+2021-10-26 09:08:21,951 - ”ровень WARNING в main.py.on_shutdown: Bye!
+2021-10-26 09:08:23,975 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-26 09:08:25,285 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-26 09:08:54,152 - ”ровень WARNING в main.py.on_shutdown: Shutting down..
+2021-10-26 09:08:54,612 - ”ровень WARNING в main.py.on_shutdown: Bye!
+2021-10-26 09:08:56,352 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-26 09:08:57,685 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-26 09:08:59,948 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1315] in chat [private:482930388]
+2021-10-26 09:09:00,093 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022821]: [failed] (in 145 ms)
+2021-10-26 09:09:00,093 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 149, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('RU_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageTextIsEmpty: Message text is empty
+2021-10-26 09:09:00,108 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:08:59 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:09:00,987 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1315] in chat [private:482930388]
+2021-10-26 09:09:01,128 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022821]: [failed] (in 142 ms)
+2021-10-26 09:09:01,129 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 149, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('RU_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageTextIsEmpty: Message text is empty
+2021-10-26 09:09:01,131 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:09:00 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:09:03,822 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1315] in chat [private:482930388]
+2021-10-26 09:09:03,968 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022821]: [failed] (in 147 ms)
+2021-10-26 09:09:03,968 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 149, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('RU_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageTextIsEmpty: Message text is empty
+2021-10-26 09:09:03,972 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:09:03 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:09:08,663 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1315] in chat [private:482930388]
+2021-10-26 09:09:08,804 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022821]: [failed] (in 141 ms)
+2021-10-26 09:09:08,805 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 149, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('RU_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageTextIsEmpty: Message text is empty
+2021-10-26 09:09:08,807 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:09:08 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:09:17,502 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1315] in chat [private:482930388]
+2021-10-26 09:09:17,648 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022821]: [failed] (in 147 ms)
+2021-10-26 09:09:17,648 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 149, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('RU_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageTextIsEmpty: Message text is empty
+2021-10-26 09:09:17,651 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:09:17 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:09:34,337 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1315] in chat [private:482930388]
+2021-10-26 09:09:34,763 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022821]: [failed] (in 427 ms)
+2021-10-26 09:09:34,765 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 149, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('RU_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageTextIsEmpty: Message text is empty
+2021-10-26 09:09:34,766 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:09:34 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:10:05,057 - ”ровень WARNING в main.py.on_shutdown: Shutting down..
+2021-10-26 09:10:05,552 - ”ровень WARNING в main.py.on_shutdown: Bye!
+2021-10-26 09:10:07,603 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-26 09:10:07,945 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-26 09:10:08,812 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1316] in chat [private:482930388]
+2021-10-26 09:10:09,109 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022822]: [success] (in 296 ms)
+2021-10-26 09:10:09,110 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:10:08 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 09:10:14,029 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1318] in chat [private:482930388]
+2021-10-26 09:10:14,376 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022823]: [success] (in 348 ms)
+2021-10-26 09:10:14,377 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:10:14 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 09:11:51,060 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1320] in chat [private:1364184778]
+2021-10-26 09:11:51,061 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022824]: [success] (in 2 ms)
+2021-10-26 09:11:51,063 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:11:51 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 09:12:33,173 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1321] in chat [private:1364184778]
+2021-10-26 09:12:33,175 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022825]: [success] (in 2 ms)
+2021-10-26 09:12:33,176 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:12:33 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 09:40:08,657 - ”ровень WARNING в main.py.on_shutdown: Shutting down..
+2021-10-26 09:40:09,109 - ”ровень WARNING в main.py.on_shutdown: Bye!
+2021-10-26 09:40:11,723 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-26 09:40:13,017 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-26 09:40:50,063 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1322] in chat [private:482930388]
+2021-10-26 09:40:50,494 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022826]: [failed] (in 432 ms)
+2021-10-26 09:40:50,494 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 178, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('RU_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageIsTooLong: Message is too long
+2021-10-26 09:40:50,510 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:40:50 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:40:51,415 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1322] in chat [private:482930388]
+2021-10-26 09:40:51,568 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022826]: [failed] (in 153 ms)
+2021-10-26 09:40:51,569 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 178, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('RU_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageIsTooLong: Message is too long
+2021-10-26 09:40:51,572 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:40:51 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:40:54,271 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1322] in chat [private:482930388]
+2021-10-26 09:40:54,453 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022826]: [failed] (in 182 ms)
+2021-10-26 09:40:54,453 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 178, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('RU_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageIsTooLong: Message is too long
+2021-10-26 09:40:54,457 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:40:54 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:40:59,164 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1322] in chat [private:482930388]
+2021-10-26 09:40:59,353 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022826]: [failed] (in 189 ms)
+2021-10-26 09:40:59,353 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 178, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('RU_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageIsTooLong: Message is too long
+2021-10-26 09:40:59,356 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:40:59 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:41:08,056 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1322] in chat [private:482930388]
+2021-10-26 09:41:08,200 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022826]: [failed] (in 144 ms)
+2021-10-26 09:41:08,200 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 178, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('RU_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageIsTooLong: Message is too long
+2021-10-26 09:41:08,208 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:41:08 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:41:23,758 - ”ровень WARNING в main.py.on_shutdown: Shutting down..
+2021-10-26 09:41:24,209 - ”ровень WARNING в main.py.on_shutdown: Bye!
+2021-10-26 09:41:39,091 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-26 09:41:39,398 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-26 09:41:40,253 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1322] in chat [private:482930388]
+2021-10-26 09:41:40,473 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022826]: [success] (in 220 ms)
+2021-10-26 09:41:40,474 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:41:40 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 09:41:56,128 - ”ровень WARNING в main.py.on_shutdown: Shutting down..
+2021-10-26 09:41:56,568 - ”ровень WARNING в main.py.on_shutdown: Bye!
+2021-10-26 09:41:58,629 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-26 09:41:59,917 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-26 09:42:06,124 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1324] in chat [private:482930388]
+2021-10-26 09:42:06,287 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022827]: [failed] (in 164 ms)
+2021-10-26 09:42:06,287 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 178, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('RU_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageIsTooLong: Message is too long
+2021-10-26 09:42:06,304 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:42:06 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:42:06,996 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1324] in chat [private:482930388]
+2021-10-26 09:42:07,169 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022827]: [failed] (in 172 ms)
+2021-10-26 09:42:07,169 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 178, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('RU_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageIsTooLong: Message is too long
+2021-10-26 09:42:07,172 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:42:07 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:42:09,875 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1324] in chat [private:482930388]
+2021-10-26 09:42:10,101 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022827]: [failed] (in 226 ms)
+2021-10-26 09:42:10,102 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 178, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('RU_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageIsTooLong: Message is too long
+2021-10-26 09:42:10,104 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:42:09 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:42:14,802 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1324] in chat [private:482930388]
+2021-10-26 09:42:14,993 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022827]: [failed] (in 191 ms)
+2021-10-26 09:42:14,993 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 178, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('RU_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageIsTooLong: Message is too long
+2021-10-26 09:42:14,995 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:42:14 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:42:23,686 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1324] in chat [private:482930388]
+2021-10-26 09:42:23,840 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022827]: [failed] (in 154 ms)
+2021-10-26 09:42:23,840 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 178, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('RU_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageIsTooLong: Message is too long
+2021-10-26 09:42:23,848 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:42:23 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:42:40,546 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1324] in chat [private:482930388]
+2021-10-26 09:42:41,015 - ”ровень INFO в logging.py.on_pre_process_error: Process update [ID:88022827]: [failed] (in 469 ms)
+2021-10-26 09:42:41,015 - ”ровень ERROR в web_protocol.py.log_exception: Error handling request
+Traceback (most recent call last):
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_protocol.py", line 422, in _handle_request
+    resp = await self._request_handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_app.py", line 499, in _handle
+    resp = await handler(request)
+  File "E:\Koд\bot\venv\lib\site-packages\aiohttp\web_urldispatcher.py", line 948, in _iter
+    resp = await method()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 139, in post
+    results = await self.process_update(update)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\webhook.py", line 190, in process_update
+    return fut.result()
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 259, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File ".\main.py", line 178, in bot_message
+    await bot.send_message(message.from_user.id, tech_anal.get('RU_anal'))
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\bot.py", line 314, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\Koд\bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.MessageIsTooLong: Message is too long
+2021-10-26 09:42:41,019 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:42:40 +0000] "POST / HTTP/1.1" 500 250 "-" "-"
+2021-10-26 09:42:49,511 - ”ровень WARNING в main.py.on_shutdown: Shutting down..
+2021-10-26 09:42:49,670 - ”ровень WARNING в main.py.on_shutdown: Bye!
+2021-10-26 09:43:02,699 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-26 09:43:02,988 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-26 09:43:03,847 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1324] in chat [private:482930388]
+2021-10-26 09:43:04,079 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022827]: [success] (in 232 ms)
+2021-10-26 09:43:04,089 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:06:43:03 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 10:43:07,754 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1326] in chat [private:1364184778]
+2021-10-26 10:43:08,326 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022828]: [success] (in 572 ms)
+2021-10-26 10:43:08,329 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:07:43:07 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 10:43:09,696 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1328] in chat [private:1364184778]
+2021-10-26 10:43:09,912 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022829]: [success] (in 216 ms)
+2021-10-26 10:43:09,914 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:07:43:09 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 10:43:13,454 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1330] in chat [private:1364184778]
+2021-10-26 10:43:13,677 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022830]: [success] (in 224 ms)
+2021-10-26 10:43:13,683 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:07:43:13 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:14:29,842 - ”ровень WARNING в main.py.on_shutdown: Shutting down..
+2021-10-26 17:14:30,484 - ”ровень WARNING в main.py.on_shutdown: Bye!
+2021-10-26 17:14:40,982 - ”ровень INFO в executor.py._welcome: Bot: CyberEvil [@cyber_evil_bot]
+2021-10-26 17:14:42,317 - ”ровень WARNING в executor.py._skip_updates: Updates were skipped successfully.
+2021-10-26 17:15:48,103 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1332] in chat [private:317815278]
+2021-10-26 17:15:48,639 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022831]: [success] (in 536 ms)
+2021-10-26 17:15:48,641 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:15:48 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:15:51,122 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1334] in chat [private:317815278]
+2021-10-26 17:15:51,474 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022832]: [success] (in 353 ms)
+2021-10-26 17:15:51,476 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:15:51 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:16:01,234 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1336] in chat [private:317815278]
+2021-10-26 17:16:01,929 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022833]: [success] (in 695 ms)
+2021-10-26 17:16:01,930 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:16:01 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:16:28,971 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1338] in chat [private:317815278]
+2021-10-26 17:16:29,458 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022834]: [success] (in 487 ms)
+2021-10-26 17:16:29,459 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:16:28 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:16:32,538 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1340] in chat [private:317815278]
+2021-10-26 17:16:32,780 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022835]: [success] (in 242 ms)
+2021-10-26 17:16:32,782 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:16:32 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:16:46,003 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1342] in chat [private:317815278]
+2021-10-26 17:16:46,182 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022836]: [success] (in 179 ms)
+2021-10-26 17:16:46,183 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:16:45 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:16:50,093 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1344] in chat [private:317815278]
+2021-10-26 17:16:50,359 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022837]: [success] (in 266 ms)
+2021-10-26 17:16:50,360 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:16:50 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:16:53,813 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1346] in chat [private:317815278]
+2021-10-26 17:16:54,039 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022838]: [success] (in 225 ms)
+2021-10-26 17:16:54,040 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:16:53 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:16:58,025 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1348] in chat [private:317815278]
+2021-10-26 17:16:58,289 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022839]: [success] (in 265 ms)
+2021-10-26 17:16:58,291 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:16:58 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:17:09,777 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1350] in chat [private:317815278]
+2021-10-26 17:17:09,977 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022840]: [success] (in 200 ms)
+2021-10-26 17:17:09,978 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:17:09 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:43:22,343 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1352] in chat [private:482930388]
+2021-10-26 17:43:23,364 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022841]: [success] (in 1021 ms)
+2021-10-26 17:43:23,366 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:43:22 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:43:45,313 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1356] in chat [private:482930388]
+2021-10-26 17:43:46,399 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022842]: [success] (in 1087 ms)
+2021-10-26 17:43:46,400 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:43:45 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:45:21,753 - ”ровень INFO в logging.py.on_pre_process_edited_message: Received edited message [ID:1356] in chat [private:482930388]
+2021-10-26 17:45:21,754 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022843]: [success] (in 1 ms)
+2021-10-26 17:45:21,756 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:45:21 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:45:28,840 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1360] in chat [private:482930388]
+2021-10-26 17:45:29,793 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022844]: [success] (in 953 ms)
+2021-10-26 17:45:29,794 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:45:28 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:47:30,275 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1364] in chat [private:482930388]
+2021-10-26 17:47:31,257 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022845]: [success] (in 982 ms)
+2021-10-26 17:47:31,258 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:47:30 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:48:10,917 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1368] in chat [private:482930388]
+2021-10-26 17:48:11,849 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022846]: [success] (in 932 ms)
+2021-10-26 17:48:11,851 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:48:10 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:49:27,320 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1372] in chat [private:482930388]
+2021-10-26 17:49:28,232 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022847]: [success] (in 912 ms)
+2021-10-26 17:49:28,233 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:49:27 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:50:18,018 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1376] in chat [private:482930388]
+2021-10-26 17:50:18,946 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022848]: [success] (in 929 ms)
+2021-10-26 17:50:18,948 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:50:18 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:51:15,786 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1380] in chat [private:482930388]
+2021-10-26 17:51:16,627 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022849]: [success] (in 841 ms)
+2021-10-26 17:51:16,628 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:51:15 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:52:33,353 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1384] in chat [private:482930388]
+2021-10-26 17:52:34,490 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022850]: [success] (in 1136 ms)
+2021-10-26 17:52:34,491 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:52:33 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:53:03,233 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1388] in chat [private:482930388]
+2021-10-26 17:53:04,228 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022851]: [success] (in 996 ms)
+2021-10-26 17:53:04,229 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:53:03 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:53:16,273 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1392] in chat [private:482930388]
+2021-10-26 17:53:17,326 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022852]: [success] (in 1053 ms)
+2021-10-26 17:53:17,328 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:53:16 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 17:53:42,325 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1396] in chat [private:482930388]
+2021-10-26 17:53:43,263 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022853]: [success] (in 937 ms)
+2021-10-26 17:53:43,264 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:14:53:42 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 18:02:53,495 - ”ровень INFO в logging.py.on_pre_process_message: Received message [ID:1400] in chat [private:482930388]
+2021-10-26 18:02:53,496 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022854]: [success] (in 1 ms)
+2021-10-26 18:02:53,497 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:15:02:53 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 18:09:26,029 - ”ровень INFO в logging.py.on_pre_process_edited_message: Received edited message [ID:1400] in chat [private:482930388]
+2021-10-26 18:09:26,029 - ”ровень INFO в logging.py.on_post_process_update: Process update [ID:88022855]: [success] (in 1 ms)
+2021-10-26 18:09:26,031 - ”ровень INFO в web_log.py.log: 127.0.0.1 [26/Oct/2021:15:09:26 +0000] "POST / HTTP/1.1" 200 158 "-" "-"
+2021-10-26 18:31:57,999 - ”ровень WARNING в main.py.on_shutdown: Shutting down..

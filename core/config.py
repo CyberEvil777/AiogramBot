@@ -3,18 +3,20 @@ from aiogram.dispatcher import Dispatcher
 from db import Database
 from aiogram.contrib.middlewares.logging import LoggingMiddleware
 from dotenv import load_dotenv
+import logging
 import os
 from os.path import join, dirname
 
 
 def get_from_env(key):
+    """Function get data from .env file"""
     dotenv_path = join(dirname(__file__), '.env')
     load_dotenv(dotenv_path)
     return os.environ.get(key)  # возвращен серкетный токен
 
 
 # webhook settings
-WEBHOOK_HOST = "https://abe54dc7eee8.ngrok.io"
+WEBHOOK_HOST = "https://373b-92-37-142-235.ngrok.io"
 WEBHOOK_PATH = ""
 WEBHOOK_URL = f"{WEBHOOK_HOST}{WEBHOOK_PATH}"
 
